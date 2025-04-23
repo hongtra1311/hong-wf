@@ -5,18 +5,18 @@ For visualizing this project, read Functionalities or view images in weather-for
 Functionalities:
 
 - The main dashboard:
-  Display hourly weather forecast for the current day
-  Show 8-next-day weather forecast
-  Have a responsive design and auto re-fresh periodically to get updated data (every 2 hours)
-  Use a OpenWeather API to fetch the weather data for the location by geo-location
-  Allows drag to change the position of the widget on the screen.
+  * Display hourly weather forecast for the current day
+  * Show 8-next-day weather forecast
+  * Have a responsive design and auto re-fresh periodically to get updated data (every 2 hours)
+  * Use a OpenWeather API to fetch the weather data for the location by geo-location
+  * Allows drag to change the position of the widget on the screen.
 
 - The menu:
-  Include a search field for the user to enter location.
-  Allows adding widget by entering the city name, the widget will show the details of current weather
-  Show detail weather of a city after click to widget of city
-  Allows deletion of widgets.
-  Allows drag to change the position of the widget in menu.
+  * Include a search field for the user to enter location.
+  * Allows adding widget by entering the city name, the widget will show the details of current weather
+  * Show detail weather of a city after click to widget of city
+  * Allows deletion of widgets.
+  * Allows drag to change the position of the widget in menu.
 
 To start, you need to download source code to your computer
 
