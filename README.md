@@ -22,9 +22,7 @@ To start, you need to download source code to your computer
 
 ### `npm i`
 
-Download node-modules.\
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Download node-modules.
 
 ## Available Scripts
 
