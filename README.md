@@ -1,22 +1,30 @@
 # Getting Started with Create React App
 
 This project was create by hongtrapt@gmail.com.
-For visualizing this project, read Functionalities or view images in weather-forecast/public/images
-Functionalities:
+
+## Demo
+
+![Show weather of city in widgets](https://github.com/hongtra1311/hong-wf/blob/main/public/images/main_1.png)
+![Show specific information in widgets - You can regulate position of widgets](https://github.com/hongtra1311/hong-wf/blob/main/public/images/main_2.png)
+![View, search, add, delete a weather list of cities](https://github.com/hongtra1311/hong-wf/blob/main/public/images/menu_2.png)
+![Search weather of a city](https://github.com/hongtra1311/hong-wf/blob/main/public/images/search.png)
+
+## Functionalities:
 
 - The main dashboard:
-  * Display hourly weather forecast for the current day
-  * Show 8-next-day weather forecast
-  * Have a responsive design and auto re-fresh periodically to get updated data (every 2 hours)
-  * Use a OpenWeather API to fetch the weather data for the location by geo-location
-  * Allows drag to change the position of the widget on the screen.
+
+  - Display hourly weather forecast for the current day
+  - Show 8-next-day weather forecast
+  - Have a responsive design and auto re-fresh periodically to get updated data (every 2 hours)
+  - Use a OpenWeather API to fetch the weather data for the location by geo-location
+  - Allows drag to change the position of the widget on the screen.
 
 - The menu:
-  * Include a search field for the user to enter location.
-  * Allows adding widget by entering the city name, the widget will show the details of current weather
-  * Show detail weather of a city after click to widget of city
-  * Allows deletion of widgets.
-  * Allows drag to change the position of the widget in menu.
+  - Include a search field for the user to enter location.
+  - Allows adding widget by entering the city name, the widget will show the details of current weather
+  - Show detail weather of a city after click to widget of city
+  - Allows deletion of widgets.
+  - Allows drag to change the position of the widget in menu.
 
 To start, you need to download source code to your computer
 
